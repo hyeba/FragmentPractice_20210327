@@ -11,14 +11,20 @@
     <fragment
         android:tag="firstFrag"
         android:layout_width="match_parent"
-        android:layout_height="300dp"
+        android:layout_height="250dp"
         class="com.neppplus.fragmentpractice_20210327.fragments.FirstFragment"/>
 
     <fragment
         android:tag="secondFrag"
         android:layout_width="match_parent"
-        android:layout_height="300dp"
+        android:layout_height="250dp"
         class="com.neppplus.fragmentpractice_20210327.fragments.SecondFragment"/>
+
+    <fragment
+        android:tag="추가frag"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        class="com.neppplus.fragmentpractice_20210327.fragments.FirstFragment"/>
 
 
 </LinearLayout>
